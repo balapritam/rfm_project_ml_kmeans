@@ -1,4 +1,4 @@
-# rfm_project_ml_kmeans
+# 🚀 Customer Segmentation Using K-Means Clustering 🚀
 
 🚀 Customer Segmentation Using K-Means Clustering 🚀
 I just completed an exciting project on customer behavior analysis for an e-commerce platform. Using the popular RFM (Recency, Frequency, Monetary) model, I was able to segment customers into distinct groups: Silver, Gold, and Diamond.
